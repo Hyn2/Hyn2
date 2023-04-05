@@ -6,7 +6,7 @@
 
 <h2> / about me /</h2>
   
-- 🏫 永進専門大学
+- 🏫 ..
 - 💭 ..
 - 🖤 ..
   
@@ -20,7 +20,6 @@
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript" />
     <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt = "java" />
-    <img src = "https://img.shields.io/badge/oracle-%23f80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt = "oracle" />
   
 - <h4> frameworks & libraries </h4>
 

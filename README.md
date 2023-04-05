@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<!-- <p align = center ><img src=""> </p> -->
 
 <div>
 
@@ -6,9 +6,9 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- 🏫 永進専門大学
+- 💭 ..
+- 🖤 ..
   
 <h2> / current skills / </h2>
   

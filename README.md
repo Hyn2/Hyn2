@@ -1,3 +1,7 @@
+<p align = center >
+  <img src="https://i.postimg.cc/xdG1dfQG/51501821f71acbc2ee96aeac479e7be4.jpg"> <img src="https://i.postimg.cc/xdG1dfQG/51501821f71acbc2ee96aeac479e7be4.jpg"> <img src="https://i.postimg.cc/xdG1dfQG/51501821f71acbc2ee96aeac479e7be4.jpg"> </p>
+
+
 <div>
   
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>

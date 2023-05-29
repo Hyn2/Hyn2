@@ -1,7 +1,7 @@
 <h1 align="center"> 😁 </h1>
 
 <div>
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Hitori" src="https://pbs.twimg.com/media/FlDaH2LaEAY1NlM?format=jpg&name=large"/>
 
 <h2> About Me </h2>
   

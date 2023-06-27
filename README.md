@@ -6,14 +6,14 @@
 <h2> About Me </h2>
   
 - 🏫 ..
-- 💭 ..
+- 💭 HKKBが欲しいです
 - 🖤 ..
   
 <h2> Skills </h2>
   <img src = "https://skillicons.dev/icons?i=html,css">
   
 <h2> Currently Learning </h2>
-  <img src = "https://skillicons.dev/icons?i=laravel,linux,java,javascript">
+  <img src = "https://skillicons.dev/icons?i=php,laravel,linux,java,javascript">
 
 </br></br>
   

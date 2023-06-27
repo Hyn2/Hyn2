@@ -6,7 +6,7 @@
 <h2> About Me </h2>
   
 - 🏫 ..
-- 💭 HKKBが欲(ほ)しいです
+- 💭 HKKBが欲しいです
 - 🖤 ..
   
 <h2> Skills </h2>
@@ -18,7 +18,7 @@
 </br></br>
   
 <div align="right">
-  <a href="https://twitter.com/k4itoh">Image by 架(か)糸(いと)</a>
+  <a href="https://twitter.com/k4itoh">Image by 架糸</a>
 <div>
 
 

@@ -13,7 +13,7 @@
  <p>없어요 :)</p>
   
 <h2> Currently Learning </h2>
-  <img src = "https://skillicons.dev/icons?i=php,laravel,vim,javascript">
+  <img src = "https://skillicons.dev/icons?i=laravel">
 
 </br></br>
   

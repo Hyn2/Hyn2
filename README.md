@@ -1,19 +1,13 @@
 
 <div>
-<div align="right">
- <img align="right" width="350" alt="Hitori" src="https://pbs.twimg.com/media/FlDaH2LaEAY1NlM?format=jpg&name=large"/>
+  <div align="right">
+   <img align="right" width="350" alt="Hitori" src="https://pbs.twimg.com/media/FlDaH2LaEAY1NlM?format=jpg&name=large"/>
+  </div>
 
-</div>
-
-<div align="left">
-
-![hyn2 github stats](https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark&card_width=10px)
-<img src="https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark&card_width=10px"> 
-</div>
-
-
-
- 
+  <div align="left">
+   
+  ![hyn2 github stats](https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark&card_width=10px)
+  </div>
 </div>
 
 

@@ -1,5 +1,10 @@
-<img align="right" width="350" alt="Hitori" src="https://pbs.twimg.com/media/FlDaH2LaEAY1NlM?format=jpg&name=large"/>
+
 <div>
+ <div align="right">
+ <img align="right" width="350" alt="Hitori" src="https://pbs.twimg.com/media/FlDaH2LaEAY1NlM?format=jpg&name=large"/>
+  
+ </div>
+<div align="left">
 <h2> About Me </h2>
 
  ```
@@ -12,6 +17,8 @@
   <img src="https://skillicons.dev/icons?i=laravel&theme=dark" />
   
 </div>
+</div>
+
 
  
 

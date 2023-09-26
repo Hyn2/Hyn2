@@ -4,7 +4,7 @@
 <div align="left">
 
 ![hyn2 github stats](https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark&card_width=10px)
- 
+<img src="https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark&card_width=10px"> 
 </div>
 
 <div align="right">

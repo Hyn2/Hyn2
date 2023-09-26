@@ -12,7 +12,7 @@
 
 ------
 
-   ![hyn2 github stats](https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark)
+   ![hyn2 github stats](https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark&width="200")
 
 <div align="right">
   <a href="https://twitter.com/k4itoh">Image by 架糸</a>

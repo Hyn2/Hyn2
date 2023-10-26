@@ -16,6 +16,8 @@
   
   <img src="https://skillicons.dev/icons?i=laravel&theme=dark" />
   <img src="https://skillicons.dev/icons?i=ruby&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" /> 
   </div>
 </div>
 

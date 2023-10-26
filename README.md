@@ -12,10 +12,10 @@
 
   ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=hyn2&hide=scss,css,html&layout=compact&theme=material-palenight&hide_border=true&bg_color=000000&icon_color=E3E3E3A8&text_color=fff&title_color=fff&count_private=true&langs_count=30&card_width=440)
     
-  <h2> Skills </h2>
+  <h2> Currently learning </h2>
   
   <img src="https://skillicons.dev/icons?i=laravel&theme=dark" />
-   
+  <img src="https://skillicons.dev/icons?i=ruby&theme=dark" /> 
   </div>
 </div>
 

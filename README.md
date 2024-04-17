@@ -16,6 +16,8 @@
   ---
 
   ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)
+  ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+  ![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
 </div>
   <div align="right">
     <a href="https://twitter.com/k4itoh">Image by 架糸</a>

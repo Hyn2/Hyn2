@@ -12,8 +12,9 @@
 
   　・・・　・・・　⛈　・・・　・・・　AIRPLANE MODE　・・・☁︎　✈︎　・・・　・・・　⛅︎
   
+  <img width="370" alt="Hitori" src="https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark"/>
 
-  ![hyn2 github stats](https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark&card_width=25px)
+  ---
 
   ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)
   ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)

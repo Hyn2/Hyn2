@@ -12,7 +12,7 @@
 
   ・・・　・・・　⛈　・・・　・・・　AIRPLANE MODE　・・・☁︎　✈︎　・・・　・・・　⛅︎
   
-  <img width="380" alt="stats" src="https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark"/>
+  <img width="377" alt="stats" src="https://github-readme-stats.vercel.app/api?username=hyn2&show_icons=true&theme=dark"/>
 
   ---
 

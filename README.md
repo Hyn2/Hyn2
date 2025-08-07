@@ -22,7 +22,7 @@
   &nbsp;
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hyn2&show_icons=true&locale=en&layout=compact&theme=midnight-purple&langs_count=8&card_width=300" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hyn2&show_icons=true&locale=en&layout=compact&theme=midnight-purple&langs_count=8&card_width=400" 
     alt="hyn2" />
 </p>
 
